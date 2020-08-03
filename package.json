@@ -1,0 +1,30 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command line fantasy rpg",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dannymont94/jest-another-rpg.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "es6",
+    "rpg",
+    "constructor",
+    "test"
+  ],
+  "author": "Daniel Monterrosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dannymont94/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/Dannymont94/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
